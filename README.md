@@ -11,7 +11,7 @@ Ce projet permet de rechercher les résultats du baccalauréat en utilisant Lara
 
 ## Prérequis
 
-- PHP >= 7.4
+- PHP >= 8.3
 - Composer
 - Node.js et npm
 - Serveur web (Apache, Nginx, etc.)
