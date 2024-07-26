@@ -114,3 +114,16 @@ L’API des résultats d’examen BACCALAURÉAT permet de rechercher les résult
   {
       "matricule": "9471153"
   }
+
+## Tests
+
+Ce projet utilise Pest pour les tests unitaires.
+
+### Exécution des Tests
+
+Assurez-vous que les dépendances PHP et JavaScript sont installées comme décrit dans la section [Installation](#installation).
+
+Lancez les tests en utilisant la commande suivante :
+
+```bash
+./vendor/bin/pest
