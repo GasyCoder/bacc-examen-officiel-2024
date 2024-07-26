@@ -22,8 +22,8 @@ Ce projet permet de rechercher les résultats du baccalauréat en utilisant Lara
 1. Clonez le dépôt GitHub :
 
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-repo.git
-    cd votre-repo
+    git@github.com:GasyCoder/git@github.com:GasyCoder/bacc-examen-officiel-2024.git.git
+    cd bacc-examen-officiel-2024
     ```
 
 2. Installez les dépendances PHP :
